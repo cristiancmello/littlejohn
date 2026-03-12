@@ -1,0 +1,12 @@
+> Levantar bibliografia
+— Pesquisa bibliográfica
+// Identificação de documentos certificados
+
+=> Levantar com qualidade
+// Necessário desenvolver habilidades de pesquisa
+
+=> Selecionar base de dados biliográficas
+// ````sh
+wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234wget https://locahost:1234
+unzip ...
+```
